@@ -22,6 +22,8 @@ Proyek ini dirancang untuk membantu kamu memahami konsep-konsep dasar Python dan
 - 🔹 **OOP (Object-Oriented Programming)**  
   Memahami konsep OOP seperti **Class**, **Object**, **Inheritance**, **Polymorphism**, **Encapsulation**, dan cara mengimplementasikannya dalam Python.
 
+- 🔹 **Dan masih banyak materi - materi lainnya**  
+
 ---
 
 ## 🛠 Struktur Folder
